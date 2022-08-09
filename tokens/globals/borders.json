@@ -1,0 +1,18 @@
+{
+  "symbolik": {
+    "border": {
+      "width": {
+        "sm": { "value": "1px" },
+        "md": { "value": "2px" },
+        "lg": { "value": "4px" },
+        "xl": { "value": "8px" }
+      },
+      "radius": {
+        "sm": { "value": "4px" },
+        "md": { "value": "8px" },
+        "lg": { "value": "12px" },
+        "xl": { "value": "20px" }
+      }
+    }
+  }
+}

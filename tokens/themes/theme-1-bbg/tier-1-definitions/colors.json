@@ -1,0 +1,67 @@
+{
+  "color": {
+    "limegreen": {"value": "limegreen"},
+    "crimson": {"value": "crimson"},
+    "white": {"value": "rgb(255, 255, 255)"},
+    "yellow": {"value": "rgb(243, 184, 36)"},
+    "accent": {"value": "rgb(249, 159, 27)"},
+    "accent-secondary": {"value": "rgb(226, 140, 26)"},
+    "red": {"value": "rgb(219, 27, 35)"},
+    "green": {"value": "rgb(91, 165, 13)"},
+    "purple": {"value": "rgb(117, 72, 192)"},
+    "input-symbol-search": {"value": "rgb(30, 32, 33)"},
+    "mountain-fill": {"value": "rgba(255, 255, 255, 0.2)"},
+    "branding-bar": {"value": "rgba(55, 53, 58, 1)"},
+    "green-low-contrast": {"value": "rgb(73, 138, 4)"},
+    "purple-low-contrast": {"value": "rgb(101, 55, 177)"},
+    "red-low-contrast": {"value": "rgb(196, 19, 26)"},
+    "yellow-low-contrast": {"value": "rgb(209, 150, 1)"},
+    "accent-muted-01": {"value": "rgb(255, 178, 77)"},
+    "accent-background": {"value": "rgb(249, 159, 27, 0.1)"},
+    "menu-background": {"value": "rgb(20, 19, 19)"},
+
+    "draw-tool-fill-1": {"value": "rgb(255, 192, 192, 0.2)"},
+    "draw-tool-fill-2": {"value": "rgb(192, 255, 192, 0.2)"},
+    "draw-tool-fill-3": {"value": "rgb(192, 192, 255, 0.2)"},
+    "draw-tool-fill-4": {"value": "rgb(192, 255, 255, 0.2)"},
+    "draw-tool-fill-5": {"value": "rgb(255, 192, 255, 0.2)"},
+    "draw-tool-fill-6": {"value": "rgb(255, 255, 192, 0.2)"},
+    "draw-tool-fill-7": {"value": "rgb(255, 255, 255, 0.2)"},
+
+    "condition-formula-study": {"value": "rgb(20, 146, 204)"},
+    "condition-formula-offset": {"value": "rgb(230, 144, 25)"},
+    "condition-formula-price": {"value": "rgb(179, 45, 156)"},
+    "condition-formula-integer": {"value": "rgb(41, 204, 199)"},
+    "condition-formula-body-text": {"value": "rgb(118, 139, 148)"},
+
+    "light": {"value": "rgb(157, 164, 179)"},
+    "muted": {"value": "rgb(88, 93, 106)"},
+    "text": {"value": "rgb(102, 103, 102)"},
+    "dark": {"value": "rgb(23, 21, 19)"},
+    "disabled": {"value": "rgb(183, 188, 196)"},
+    "cream": {"value": "rgb(242, 229, 214)"},
+    "border-default": {"value": "rgb(34, 30, 26)"},
+    "black": {"value": "rgb(0, 0, 0)"},
+    "contrast": {"value": "rgb(10, 9, 9)"},
+    "bg": {"value": "rgba(0, 0, 0, 0.9)"},
+    "dull": {"value": "rgb(126, 127, 127)"},
+
+    "box-shadow-depth-4-end": {"value": "rgba(0, 0, 0, 0.22)"},
+    "box-shadow-depth-5-end": {"value": "rgba(0, 0, 0, 0.22)"},
+
+    "box-shadow-depth-2-end": {"value": "rgba(0, 0, 0, 0.23)"},
+    "box-shadow-depth-3-end": {"value": "rgba(0, 0, 0, 0.23)"},
+
+    "box-shadow-thumb-start": {"value": "rgba(255, 255, 255, 0.4)"},
+    "box-shadow-thumb-end": {"value": "rgba(255, 255, 255, 0.08)"},
+    "box-shadow-depth-1-start": {"value": "rgba(0, 0, 0, 0.12)"},
+    "box-shadow-depth-1-end": {"value": "rgba(0, 0, 0, 0.24)"},
+    "box-shadow-depth-2-start": {"value": "rgba(0, 0, 0, 0.16)"},
+    "box-shadow-depth-3-start": {"value": "rgba(0, 0, 0, 0.19)"},
+    "box-shadow-depth-4-start": {"value": "rgba(0, 0, 0, 0.25)"},
+    "box-shadow-depth-5-start": {"value": "rgba(0, 0, 0, 0.3)"},
+
+    "overlay-background": {"value": "rgba(0, 0, 0, 0.5)"},
+    "overlay-background-muted-01": {"value": "rgba(255, 255, 255, 0.25)"}
+  }
+}

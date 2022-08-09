@@ -1,0 +1,10 @@
+{
+  "symbolik": {
+    "bp": {
+      "sm": { "value": "48rem", "description": "768px" },
+      "md": { "value": "64rem", "description": "1024px" },
+      "lg": { "value": "90rem", "description": "1440px" },
+      "xl": { "value": "111rem", "description": "1776px" }
+    }
+  }
+}

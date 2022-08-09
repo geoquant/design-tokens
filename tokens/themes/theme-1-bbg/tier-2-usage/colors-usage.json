@@ -1,0 +1,107 @@
+{
+  "symbolik": {
+    "theme": {
+      "color": {
+        "invalid": {"value": "{color.red}"},
+        "favorite": {"value": "{color.yellow}"},
+        "branding-bar-foreground": {"value": "{color.white}"},
+
+        "low-contrast-01": {"value": "{color.border-default}"},
+        "low-contrast-02": {"value": "{color.dark}"},
+        "low-contrast-03": {"value": "{color.contrast}"},
+
+        "md-contrast-01": {"value": "{color.light}"},
+        "md-contrast-02": {"value": "{color.disabled}"},
+        "md-contrast-03": {"value": "{color.muted}"},
+
+        "high-contrast-01": {"value": "{color.dull}"},
+        "high-contrast-02": {"value": "{color.cream}"},
+        "high-contrast-03": {"value": "{color.text}"},
+
+        "btn-default": {"value": "{color.text}"},
+        "btn-hover": {"value": "{color.accent}"},
+        "btn-active": {"value": "{color.accent-secondary}"},
+        "btn-disabled": {"value": "{color.disabled}"},
+        "btn-muted": {"value": "{color.muted}"},
+        "btn-muted-hover": {"value": "{color.disabled}"},
+
+        "input-background": {"value": "{color.black}"},
+        "input-border": {"value": "{color.border-default}"},
+        "input-thumb": {"value": "{color.disabled}"},
+        "input-text": {"value": "{color.text}"},
+        "input-text-active": {"value": "{color.cream}"},
+        "input-inactive": {"value": "{color.muted}"},
+        "input-track-default": {"value": "{color.muted}"},
+        "input-track-hover": {"value": "{color.disabled}"},
+
+        "border-chart": {"value": "{color.border-default}"},
+        "border-default": {"value": "{color.border-default}"},
+        "border-active": {"value": "{color.accent-secondary}"},
+        "border-invalid": {"value": "{color.red}"},
+        "border-dark": {"value": "{color.disabled}"},
+        "border-light": {"value": "{color.border-default}"},
+
+        "background-application": {"value": "{color.black}"},
+        "background-default": {"value": "{color.border-default}"},
+        "background-muted-01": {"value": "{color.dark}"},
+        "background-muted-02": {"value": "{color.contrast}"},
+        "background-invert": {"value": "{color.cream}"},
+
+        "chart-output": {"value": "{color.white}"},
+        "chart-output-invert": {"value": "{color.black}"},
+        "chart-label-major-background": {"value": "{color.bg}"},
+        "chart-label-major": {"value": "{color.disabled}"},
+        "chart-label-minor": {"value": "{color.light}"},
+        "chart-bar-price-label-background": {
+          "value": "{color.cream}"
+        },
+        "chart-current-price-label-background": {
+          "value": "{color.text}"
+        },
+
+        "gridline-major": {"value": "{color.light}"},
+        "gridline-minor": {"value": "{color.contrast}"},
+
+        "active": {"value": "{color.accent-secondary}"},
+        "active-hover": {"value": "{color.accent-secondary}"},
+
+        "foreground-default": {"value": "{color.cream}"},
+        "foreground-muted-01": {"value": "{color.text}"},
+        "foreground-muted-02": {"value": "{color.light}"},
+        "foreground-muted-03": {"value": "{color.disabled}"},
+        "foreground-invert": {"value": "{color.black}"},
+
+        "delta-negative": {"value": "{color.crimson}"},
+        "delta-positive": {"value": "{color.limegreen}"},
+
+        "menu-background-hover": {"value": "{color.border-default}"},
+        "menu-foreground": {"value": "{color.text}"},
+        "menu-background-muted-hover": {"value": "{color.dark}"},
+
+        "scrollbar-track": {"value": "{color.border-default}"},
+        "scrollbar-thumb": {"value": "{color.disabled}"},
+
+        "feedback-default": {"value": "{color.accent}"},
+        "feedback-warning": {"value": "{color.yellow}"},
+        "feedback-error": {"value": "{color.red}"},
+        "hud-background": {"value": "{color.bg}"},
+        "hud-foreground": {"value": "{color.cream}"},
+        "hud-icon": {"value": "{color.text}"},
+        "hud-icon-hover": {"value": "{color.accent}"},
+
+        "tooltip-foreground": {"value": "{color.black}"},
+        "tooltip-background": {"value": "{color.dull}"},
+        "panel-background": {"value": "{color.bg}"},
+        "panel-foreground": {"value": "{color.text}"},
+
+        "list-item-hover-background": {
+          "value": "{color.border-default}"
+        },
+        "list-header-text": {"value": "{color.text}"},
+
+        "badge-accent": {"value": "{color.yellow}"},
+        "badge-default": {"value": "{color.disabled}"}
+      }
+    }
+  }
+}

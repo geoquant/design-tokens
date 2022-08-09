@@ -1,0 +1,78 @@
+{
+  "symbolik": {
+    "color": {
+      "brand": {
+        "primary": {
+          "default": { "value": "#359CFC" },
+          "hover": { "value": "#5CB0FF" },
+          "focused": { "value": "#288FEF" },
+          "pressed": { "value": "#318ADE" },
+          "dragged": { "value": "#359CFC" },
+          "selected": { "value": "#359CFC" },
+          "disabled": { "value": "#DAEDFF" }
+        },
+        "secondary": {
+          "default": { "value": "#545769" },
+          "hover": { "value": "#686B7C" },
+          "focused": { "value": "#545769" },
+          "pressed": { "value": "#474A5C" },
+          "dragged": { "value": "#545769" },
+          "selected": { "value": "#26293C" },
+          "disabled": { "value": "" }
+        },
+        "tertiary": {
+          "default": { "value": "#1316230F" },
+          "hover": { "value": "#FFFFFF" },
+          "focused": { "value": "#FFFFFF" },
+          "pressed": { "value": "#FFFFFF" },
+          "dragged": { "value": "#FFFFFF" },
+          "selected": { "value": "#FFFFFF" },
+          "disabled": { "value": "#DAEDFF" }
+        },
+        "quart": {
+          "default": { "value": "#FF9100" },
+          "hover": { "value": "#FFC578" },
+          "focused": { "value": "" },
+          "pressed": { "value": "#ED8700" },
+          "dragged": { "value": "" },
+          "selected": { "value": "#FF9100" },
+          "disabled": { "value": "" }
+        },
+        "text": {
+          "default": { "value": "#121928" },
+          "hover": { "value": "#65687C" },
+          "focused": { "value": "#97A2BB" },
+          "pressed": { "value": "#FFFFFF" }
+        },
+        "background": {
+          "default": { "value": "#121928" },
+          "hover": { "value": "#121928CC" },
+          "focused": { "value": "#EEF2F6" },
+          "pressed": { "value": "#F7F9FC" },
+          "dragged": { "value": "#FFFFFF" }
+        },
+        "outline": {
+          "default": { "value": "#B3D1EC" },
+          "hover": { "value": "#DEE3F0" },
+          "focused": { "value": "#C8CDDA" }
+        },
+        "alert": {
+          "default": { "value": "#FF5858" },
+          "hover": { "value": "#FFF5F5" },
+          "focused": { "value": "#FFA937" },
+          "pressed": { "value": "#FFFAF5" },
+          "dragged": { "value": "#25C248" },
+          "selected": { "value": "#F5FFF8" },
+          "disabled": { "value": "#0085FF" },
+          "a": { "value": "#F5FAFF" }
+        },
+        "disabled": {
+          "default": { "value": "#BCBECA" },
+          "hover": { "value": "#DADBE3" },
+          "focused": { "value": "#DAEDFF" },
+          "pressed": { "value": "#E4E5EC59" }
+        }
+      }
+    }
+  }
+}

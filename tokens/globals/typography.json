@@ -1,0 +1,36 @@
+{
+  "symbolik": {
+    "font-family": {
+      "primary": { "value": "TT Norms Pro" }
+    },
+    "font-weight": {
+      "regular": { "value": "400" },
+      "medium": { "value": "500" },
+      "bold": { "value": "700" }
+    },
+    "font-size": {
+      "10": { "value": "0.625rem" },
+      "12": { "value": "0.75rem" },
+      "14": { "value": "0.875rem" },
+      "16": { "value": "1rem" },
+      "18": { "value": "1.125rem" },
+      "20": { "value": "1.25rem" },
+      "24": { "value": "1.5rem" },
+      "28": { "value": "1.75rem" },
+      "32": { "value": "2rem" },
+      "36": { "value": "2.25rem" },
+      "40": { "value": "2.5rem" }
+    },
+    "line-height": {
+      "base": { "value": "1" },
+      "xs": { "value": "1.2" },
+      "sm": { "value": "1.22222" },
+      "md": { "value": "1.25" },
+      "lg": { "value": "1.28571" },
+      "xl": { "value": "1.33333" },
+      "xxl": { "value": "1.4" },
+      "xxxl": { "value": "1.42857" },
+      "xxxxl": { "value": "1.5" }
+    }
+  }
+}

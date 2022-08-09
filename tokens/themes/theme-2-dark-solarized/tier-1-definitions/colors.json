@@ -1,0 +1,151 @@
+{
+  "color": {
+    "green": { "value": "rgb(130, 157, 60)" },
+    "purple": { "value": "rgb(111, 108, 177)" },
+    "red": { "value": "rgb(221, 48, 39)" },
+    "yellow": { "value": "rgb(179, 141, 47)" },
+    "white": { "value": "rgb(238, 232, 311)" },
+    "limegreen": { "value": "rgb(130, 157, 60)" },
+    "crimson": { "value": "rgb(221, 48, 39)" },
+    "invalid": { "value": "rgb(221, 48, 39)" },
+    "favorite": { "value": "rgb(179, 141, 47)" },
+    "mountain-fill": { "value": "rgba(147, 161, 161, 0.2)" },
+
+    "branding-bar": { "value": "rgba(0, 39, 48, 1)" },
+    "branding-bar-foreground": { "value": "rgb(255, 255, 255)" },
+
+    "low-contrast-01": { "value": "rgb(0, 43, 54)" },
+    "low-contrast-02": { "value": "rgb(7, 54, 66)" },
+    "low-contrast-03": { "value": "rgb(11, 60, 71)" },
+
+    "md-contrast-01": { "value": "rgb(88, 110, 117)" },
+    "md-contrast-02": { "value": "rgb(101, 123, 131)" },
+    "md-contrast-03": { "value": "rgb(101, 123, 131)" },
+
+    "high-contrast-01": { "value": "rgb(147, 161, 161)" },
+    "high-contrast-02": { "value": "rgb(238, 232, 213)" },
+    "high-contrast-03": { "value": "rgb(253, 246, 227)" },
+
+    "green-low-contrast": { "value": "rgb(133, 153, 0)" },
+    "purple-low-contrast": { "value": "rgb(108, 113, 196)" },
+    "red-low-contrast": { "value": "rgb(220, 50, 47)" },
+    "yellow-low-contrast": { "value": "rgb(209, 150, 1)" },
+
+    "accent": { "value": "rgb(38, 139, 210)" },
+    "accent-secondary": { "value": "rgb(47, 119, 168)" },
+    "accent-muted-01": { "value": "rgb(55, 155, 198)" },
+    "accent-background": { "value": "rgb(38, 139, 210, 0.05)" },
+
+    "btn-default": { "value": "rgb(253, 246, 227)" },
+    "btn-hover": { "value": "rgb(38, 139, 210)" },
+    "btn-active": { "value": "rgb(47, 119, 168)" },
+    "btn-disabled": { "value": "rgb(101, 123, 131)" },
+    "btn-muted": { "value": "rgb(101, 123, 131)" },
+    "btn-muted-hover": { "value": "rgb(101, 123, 131)" },
+
+    "input-background": { "value": "rgb(0, 43, 54, 0.5)" },
+    "input-border": { "value": "rgb(11, 60, 71)" },
+    "input-thumb": { "value": "rgb(183, 188, 196)" },
+    "input-symbol-search": { "value": "rgb(0, 39 , 48)" },
+    "input-text": { "value": "rgb(253, 246, 227)" },
+    "input-text-active": { "value": "rgb(238, 232, 213)" },
+    "input-inactive": { "value": "rgb(101, 123, 131)" },
+    "input-track-default": { "value": "rgb(101, 123, 131)" },
+    "input-track-hover": { "value": "rgb(101, 123, 131)" },
+
+    "box-shadow-thumb-start": { "value": "rgba(238, 232, 311, 0.4)" },
+    "box-shadow-thumb-end": { "value": "rgba(238, 232, 311, 0.08)" },
+    "box-shadow-depth-1-start": { "value": "rgba(0, 0, 0, 0.12)" },
+    "box-shadow-depth-1-end": { "value": "rgba(0, 0, 0, 0.24)" },
+    "box-shadow-depth-2-start": { "value": "rgba(0, 0, 0, 0.16)" },
+    "box-shadow-depth-2-end": { "value": "rgba(0, 0, 0, 0.23)" },
+    "box-shadow-depth-3-start": { "value": "rgba(0, 0, 0, 0.19)" },
+    "box-shadow-depth-3-end": { "value": "rgba(0, 0, 0, 0.23)" },
+    "box-shadow-depth-4-start": { "value": "rgba(0, 0, 0, 0.25)" },
+    "box-shadow-depth-4-end": { "value": "rgba(0, 0, 0, 0.22)" },
+    "box-shadow-depth-5-start": { "value": "rgba(0, 0, 0, 0.3)" },
+    "box-shadow-depth-5-end": { "value": "rgba(0, 0, 0, 0.22)" },
+
+    "border-chart": { "value": "rgb(13, 67, 76)" },
+    "border-default": { "value": "rgb(13, 67, 76)" },
+    "border-active": { "value": "rgb(47, 119, 168)" },
+    "border-invalid": { "value": "rgb(221, 48, 39)" },
+    "border-dark": { "value": "rgb(101, 123, 131)" },
+    "border-light": { "value": "rgb(0, 43, 54)" },
+
+    "background-application": { "value": "rgb(0, 43, 54)" },
+    "background-default": { "value": "rgb(0, 43, 54)" },
+    "background-muted-01": { "value": "rgb(7, 54, 66)" },
+    "background-muted-02": { "value": "rgb(11, 60, 71)" },
+    "background-invert": { "value": "rgb(242, 229, 214)" },
+
+    "chart-output": { "value": "rgb(147, 161, 161)" },
+    "chart-output-invert": { "value": "rgb(0, 0, 0)" },
+    "chart-label-major-background": { "value": "rgba(0, 43, 54, 0.9)" },
+    "chart-label-major": { "value": "rgb(101, 123, 131)" },
+    "chart-label-minor": { "value": "rgb(88, 110, 117)" },
+    "chart-bar-price-label-background": { "value": "rgb(238, 232, 213)" },
+    "chart-current-price-label-background": { "value": "rgb(253, 246, 227)" },
+
+    "overlay-background": { "value": "rgba(0, 0, 0, 0.5)" },
+    "overlay-background-muted-01": { "value": "rgba(147, 161, 161, 0.25)" },
+
+    "gridline-major": { "value": "rgb(88, 110, 117)" },
+    "gridline-minor": { "value": "rgb(11, 60, 71)" },
+
+    "draw-tool-fill-1": { "value": "rgb(255, 192, 192, 0.2)" },
+    "draw-tool-fill-2": { "value": "rgb(192, 255, 192, 0.2)" },
+    "draw-tool-fill-3": { "value": "rgb(192, 192, 255, 0.2)" },
+    "draw-tool-fill-4": { "value": "rgb(192, 255, 255, 0.2)" },
+    "draw-tool-fill-5": { "value": "rgb(255, 192, 255, 0.2)" },
+    "draw-tool-fill-6": { "value": "rgb(255, 255, 192, 0.2)" },
+    "draw-tool-fill-7": { "value": "rgb(255, 255, 255, 0.2)" },
+
+    "condition-formula-study": { "value": "rgb(42, 161, 152)" },
+    "condition-formula-offset": { "value": "rgb(108, 113, 196)" },
+    "condition-formula-price": { "value": "rgb(133, 153, 0)" },
+    "condition-formula-integer": { "value": "rgb(181, 137, 0)" },
+    "condition-formula-body-text": { "value": "rgb(235, 232, 213)" },
+
+    "active": { "value": "rgb(47, 119, 168)" },
+    "active-hover": { "value": "rgb(47, 119, 168)" },
+
+    "foreground-default": { "value": "rgb(238, 232, 213)" },
+    "foreground-muted-01": { "value": "rgb(253, 246, 227)" },
+    "foreground-muted-02": { "value": "rgb(88, 110, 117)" },
+    "foreground-muted-03": { "value": "rgb(101, 123, 131)" },
+    "foreground-invert": { "value": "rgb(0, 0, 0)" },
+
+    "delta-negative": { "value": "rgb(221, 48, 39)" },
+    "delta-positive": { "value": "rgb(130, 157, 60)" },
+
+    "menu-background": { "value": "rgb(11, 60, 71)" },
+    "menu-background-hover": { "value": "rgb(7, 54, 66)" },
+    "menu-foreground": { "value": "rgb(253, 246, 227)" },
+    "menu-background-muted-hover": { "value": "rgb(7, 54, 66, 0.5)" },
+
+    "scrollbar-track": { "value": "rgb(0, 43, 54)" },
+    "scrollbar-thumb": { "value": "rgb(101, 123, 131)" },
+
+    "feedback-default": { "value": "rgb(38, 139, 210)" },
+    "feedback-warning": { "value": "rgb(179, 141, 47)" },
+    "feedback-error": { "value": "rgb(221, 48, 39)" },
+
+    "hud-background": { "value": "rgba(0, 43, 54, 0.9)" },
+    "hud-foreground": { "value": "rgb(238, 232, 213)" },
+    "hud-icon": { "value": "rgb(253, 246, 227)" },
+    "hud-icon-hover": { "value": "rgb(38, 139, 210)" },
+
+    "tooltip-foreground": { "value": "rgb(0, 0, 0)" },
+    "tooltip-background": { "value": "rgb(147, 161, 161)" },
+
+    "panel-background": { "value": "rgba(0, 43, 54, 0.9)" },
+    "panel-foreground": { "value": "rgb(253, 246, 227)" },
+
+    "list-item-hover-background": { "value": "rgb(0, 43, 54)" },
+    "list-header-text": { "value": "rgb(253, 246, 227)" },
+
+    "badge-accent": { "value": "rgb(179, 141, 47)" },
+    "badge-default": { "value": "rgb(101, 123, 131)" }
+  }
+}

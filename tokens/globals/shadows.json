@@ -1,0 +1,12 @@
+{
+  "symbolik": {
+    "box-shadow": {
+      "sm": {
+        "value": "0px 1px 2px 1px rgba(0, 0, 0, 0.2)"
+      },
+      "md": {
+        "value": "0 3px 6px 0px rgba(0, 0, 0, 0.16)"
+      }
+    }
+  }
+}
